@@ -22,7 +22,7 @@ alert(`Voce recebe ${salarioPorDia/horasTrabalhoDia} por hora`)
 
 */
 
-
+/*
 //1-
 let nome
 let idade
@@ -68,5 +68,12 @@ aa=bb  //a=10
 bb=cc  //b=25
 
 console.log("O valor de aa:",aa,"O valor de bb:",bb)
+*/
+
+let a=3
+let b=7
+const soma=3+7
+
+console.log(soma)
 
 
