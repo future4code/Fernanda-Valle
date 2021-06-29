@@ -18,9 +18,3 @@
 // *
 // **
 // ***
-// ****
-
-
-// Exercício de escrita de código
-
-// Exercício 1
