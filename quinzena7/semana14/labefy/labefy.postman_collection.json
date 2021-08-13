@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "4de349a6-98c2-4024-877e-bc5d9f77a1ba",
+		"name": "labefy",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "minhaRequisicao",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://minha-requisicao",
+					"protocol": "https",
+					"host": [
+						"minha-requisicao"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
